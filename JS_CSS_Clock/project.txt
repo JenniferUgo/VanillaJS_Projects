@@ -1,0 +1,1 @@
+Takes in the current time from JavaScript and update the hands based on the current hour, minutes and seconds
