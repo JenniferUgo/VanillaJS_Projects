@@ -1,0 +1,21 @@
+body {
+    background: darkslategrey;
+    color: antiquewhite;
+}
+
+.footer {
+    color: yellow;
+}
+
+.title, .sub {
+    column-span: all;
+    display: block;
+    text-align: center;
+}
+
+.paragraph {
+    columns: 200px 2;
+    column-gap: 30px;
+    color: #fff;
+    padding: 25px;
+}
