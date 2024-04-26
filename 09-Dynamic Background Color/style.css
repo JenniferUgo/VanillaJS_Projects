@@ -1,0 +1,9 @@
+#changeColorBtn {
+    cursor: pointer;
+}
+
+#changeColorBtn:hover {
+    cursor: pointer;
+    background-color: brown;
+    color: beige;
+}
