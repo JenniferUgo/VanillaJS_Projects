@@ -5,3 +5,6 @@ document.getElementById('changeColorBtn').onclick = function() {
     document.body.style.backgroundColor = colors[colorIndex];
     colorIndex = (colorIndex + 1) % colors.length;
 }
+
+
+
